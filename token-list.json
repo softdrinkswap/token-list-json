@@ -203,7 +203,15 @@
       "symbol": "TWT",
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/trust_32.png"
-    }    
+    },
+	{
+      "address": "0x816427eD0c2986c14Db63ca09B6376FFd9E0aD70",
+      "chainId": 56,
+      "name": "IceToken",
+      "symbol": "ICE",
+      "decimals": 18,
+      "logoURI": ""
+    }
   ],
   "version": {
     "major": 1,
